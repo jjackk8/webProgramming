@@ -1,9 +1,13 @@
 *{
   font-family: Helvetica, sans-serif;
-
+  background-color: blanchedalmond;
 }
 
-.header{
+html{
+  scroll-behavior: smooth;
+}
+
+header{
   font-size: 25px;
   color: black;
 }
@@ -11,15 +15,29 @@
 .h{
   text-align: center;
 }
+h1{
+  background-color: purple;
+}
+
 body{
   font-size: 18px;
 }
-html{
-  scroll-behavior: smooth;
-}
-
 
 .div1{
   background-color: rgb(36, 28, 74);
   color: white;
+  padding: 2%;
+}
+
+p{
+  font-weight: bold;
+  color: darkgreen;
+}
+
+
+
+
+body {
+  background-color: black;
+  color: whitesmoke;
 }
