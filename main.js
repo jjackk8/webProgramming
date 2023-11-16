@@ -1,3 +1,10 @@
+document.querySelector("html").addEventListener("click", function () {
+  alert("Thank you for clicking!");
+});
+
+
+
+
 //if ( s.length > 10 ) {
   //s=s.substring(0, 10);
 //} else {
