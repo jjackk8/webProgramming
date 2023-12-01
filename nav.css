@@ -1,27 +1,16 @@
-* {
-  box-sizing: border-box;
-}
-
 .pet{
-  float: left;
   width: 33.33%;
   padding: 5px;
+  display:inline-block;
 }
 
-
-
-.dog{
+.dog{max-width: 33.33%;}
+.cat{}
   
-}
-
-.cat{
-  
-}
-
 .mid{}
 
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
