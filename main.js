@@ -1,4 +1,5 @@
 
+
 document.getElementById("dog").src.addEventListener("click", () => {
   alert("A dog may be a good fit for you!");
 });
