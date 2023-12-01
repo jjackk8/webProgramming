@@ -8,26 +8,34 @@ html{
 }
 
 header{
-  font-size: 25px;
-  color: white;
+  font-size: 18px;
+  background-color: #003b49;
+  color: #94a596;
+
 }
 
 .h{
   text-align: center;
 }
 h1{
-  background-color: purple;
+  text-align: center;
+  color: white;
 }
 
 body{
   font-size: 18px;
-  background-color: white;
-  color: #94a596;
 }
 .div1{
-  background-color: rgb(36, 28, 74);
-  color: white;
+  
+  background-color: #5d3754;
+  color: #d6d2c4;
   padding: 2%;
+  margin-left: 35%;
+  margin-right: 35%;
+  text-align: center;
+  border-radius: 10%;
+  width: 30%;
+  height: 10%;
 }
 
 p{
